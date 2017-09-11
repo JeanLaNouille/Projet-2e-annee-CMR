@@ -1,0 +1,46 @@
+https://material.io/icons/
+http://designmodo.github.io/Flat-UI/
+
+arrondi de 2px
+
+fond ?
+#FFF
+boutons valider normaux
+#3A539B
+
+colonnes
+adherent
+#4183D7
+temps
+#52B3D9
+forfaits
+#3498DB
+
+liste adherent
+en-tete
+#2C3E50
+ligne pair
+#000000
+ligne impair
+#C5EFF7
+
+bouton ajouter et modifier
+#59ABE3
+
+bouton enregistrer/sauvegarder
+#26A65B
+
+bouton quitter
+#D91E18
+
+fond menu deroulant
+#C5EFF7
+
+gris clair
+#ECF0F1
+
+wet asphalt (bleu très foncé)
+#34495E
+
+gris tres tres clair
+#f1f1f1

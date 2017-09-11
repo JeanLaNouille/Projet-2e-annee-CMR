@@ -5,6 +5,8 @@
 		<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300|Roboto:400,500|Roboto+Mono|Ubuntu" rel="stylesheet">
 		<!-- Bootstrap needed css template -->
 		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+		<!-- Material design icon -->
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 		<!-- Custom css -->
 		<link rel="stylesheet" href="style.css" />
 		<!-- Javascript -->
