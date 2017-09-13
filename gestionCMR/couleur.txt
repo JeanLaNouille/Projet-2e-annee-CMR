@@ -4,7 +4,7 @@ http://designmodo.github.io/Flat-UI/
 arrondi de 2px
 
 fond ?
-#FFF
+#eee
 boutons valider normaux
 #3A539B
 
